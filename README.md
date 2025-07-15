@@ -1,6 +1,6 @@
-# Next.js SaaS Starter
+# Chedaro Frontend Assessment
 
-This is a multi-tenant team management app built with **Next.js** with client side authentication and route protection, including a login page and a dashboard for logged-in users.
+This is a multi-tenant team management app built with **Next.js**, with client side authentication and route protection, including a login page and a dashboard for logged-in users.
 
 <!-- **Demo: [https://next-saas-start.vercel.app/](https://next-saas-start.vercel.app/)** -->
 
